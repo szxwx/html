@@ -1,0 +1,23 @@
+.parent {
+    border: 1px solid red;
+    padding: 20px;
+}
+
+.child {
+    border: 1px solid green;
+    height: 80px;
+    margin: 20px auto;
+}
+
+
+.child:nth-child(1) {
+    width: 100px;
+}
+
+.child:nth-child(2) {
+    width: 200px;
+}
+
+.child:nth-child(3) {
+    width: 300px;
+}
