@@ -1,0 +1,7 @@
+#elem {
+    width: 200px;
+    border: 1px solid red;
+    text-align: justify;
+    padding: 40px;
+    height: auto;
+}

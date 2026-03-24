@@ -1,0 +1,13 @@
+#parent {
+  width: 200px;
+  border: 3px solid rgb(229, 35, 35);
+  
+}
+#child {
+    margin-top: 50px;
+    margin-right:50px;
+    margin-bottom: 100px;
+    margin-left: 50px;
+    height: 90px;
+    border: 3px solid rgb(88, 198, 74);
+}

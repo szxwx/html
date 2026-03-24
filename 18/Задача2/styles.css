@@ -1,0 +1,6 @@
+body {
+  background-image: url("img/bg.png");
+  width: 500px;
+  height: 500px;
+  background-repeat: repeat-y;
+}

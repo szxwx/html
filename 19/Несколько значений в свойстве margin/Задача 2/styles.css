@@ -1,0 +1,11 @@
+#parent {
+  width: 200px;
+  border: 3px solid rgb(229, 145, 35);
+  
+}
+#child {
+    margin:120px 40px ;
+    height: 60px;
+    border: 3px solid rgb(51, 62, 212);
+    border-style: dashed;
+}

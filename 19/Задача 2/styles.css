@@ -1,0 +1,16 @@
+#parent {
+  width: 500px;
+  border: 3px solid purple;
+  border-style: dashed;
+}
+#child {
+  height: 300px;
+  border: 3px solid rgb(88, 198, 74);
+  margin: 30px;
+  border-style: dashed;
+}
+#child2 {
+  height: 230px;
+  border: 3px solid red;
+  margin: 30px;
+}
